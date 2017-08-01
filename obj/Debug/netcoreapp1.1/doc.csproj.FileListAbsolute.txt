@@ -1,0 +1,8 @@
+c:\Users\Alan Weber\Desktop\teacher\demos\doc\bin\Debug\netcoreapp1.1\doc.deps.json
+c:\Users\Alan Weber\Desktop\teacher\demos\doc\bin\Debug\netcoreapp1.1\doc.runtimeconfig.json
+c:\Users\Alan Weber\Desktop\teacher\demos\doc\bin\Debug\netcoreapp1.1\doc.runtimeconfig.dev.json
+c:\Users\Alan Weber\Desktop\teacher\demos\doc\bin\Debug\netcoreapp1.1\doc.dll
+c:\Users\Alan Weber\Desktop\teacher\demos\doc\bin\Debug\netcoreapp1.1\doc.pdb
+c:\Users\Alan Weber\Desktop\teacher\demos\doc\obj\Debug\netcoreapp1.1\doc.AssemblyInfo.cs
+c:\Users\Alan Weber\Desktop\teacher\demos\doc\obj\Debug\netcoreapp1.1\doc.dll
+c:\Users\Alan Weber\Desktop\teacher\demos\doc\obj\Debug\netcoreapp1.1\doc.pdb
